@@ -22,27 +22,43 @@
 </div>
 
 # 💻 Tech Stack:
-<div>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=ffffff" alt="C">
-  <img src="https://img.shields.io/badge/html5-%2300599C.svg?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%2300599C.svg?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JavaScript">
-  <img src="https://img.shields.io/badge/github-%2300599C.svg?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+
 </div>
 
 # 📊 GitHub Stats:
-<div align="center" style="background: linear-gradient(135deg, #2300599C, #ffffff); padding: 20px; border-radius: 15px;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lehsiilva&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehsiilva&theme=github_dark&hide_border=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=lehsiilva&limit=5&theme=github_dark&combine_all_yearly_contributions=true" height="150" alt="languages graph"  />
   
-![](https://github-readme-stats.vercel.app/api?username=lehsiilva&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lehsiilva&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lehsiilva&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?github_user_name=lehsiilva&date_range=last_year"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?github_user_name=lehsiilva&date_range=last_year"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?github_user_name=lehsiilva&date_range=last_year"
+  />
+</picture>
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lehsiilva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lehsiilva&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 
