@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=300&color=ADD8E6&text=WELCOME&fontColor=7FB5D4&section=header"/>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=7FB5D4&center=true&vCenter=true&random=false&width=1000&lines=Hello!%2C+My+name+is+Leticia)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=7FB5D4&center=true&vCenter=true&random=false&width=1000&lines=Hello!%2C+My+name+is+Letícia)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👋 Hi! I'm Letícia Beatriz, a Computer Science student at PUC Minas. I'm currently diving into front-end development, with plans to explore mobile development in the future.
+👋 Hi! I'm Letícia, a Computer Science student at PUC Minas. I'm currently diving into front-end development, with plans to explore mobile development in the future.
 
 💡 Passionate about learning JavaScript, HTML, CSS, and front-end frameworks.
 
