@@ -43,7 +43,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lehsiilva&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lehsiilva&anuraghazra&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehsiilva&theme=github_dark&hide_border=false&layout=compact" height="150" alt="languages graph"  />
   <img src="https://github-contributor-stats.vercel.app/api?username=lehsiilva&limit=5&theme=github_dark&combine_all_yearly_contributions=true" height="150" alt="languages graph"  />
   
