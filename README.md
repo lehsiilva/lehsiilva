@@ -3,9 +3,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=7FB5D4&center=true&vCenter=true&random=false&width=1000&lines=Hello!%2C+My+name+is+Letícia)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👋 Hi! I'm Letícia, a Computer Science student at PUC Minas. I'm currently diving into front-end development, with plans to explore mobile development in the future.
+👋 Hi! I'm Letícia, a Computer Science student at PUC Minas. I'm currently diving into front-end/back-end development.
 
-💡 Passionate about learning JavaScript, HTML, CSS, and front-end frameworks.
+💡Currently learning Front-End and Back-End frameworks.
 
 🚀 Looking for my first professional experience in tech!
 
