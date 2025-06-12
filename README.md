@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/console.leticia?igsh=cXlxMW5xNDZtNnA3&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-%2300599C.svg?logo=Instagram&logoColor=ffffff" alt="Instagram">
   </a>
-  <a href="http://linkedin.com/in/let%C3%ADcia-beatriz-51774a14a">
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-silva-51774a14a/">
     <img src="https://img.shields.io/badge/LinkedIn-%2300599C.svg?logo=linkedin&logoColor=ffffff" alt="LinkedIn">
   </a>
 </div>
